@@ -17,7 +17,7 @@
 
 </div><br/>
 
-💻 Estudante de ADS — 2º Semestre
+💻 Estudante de ADS — 3º Semestre
 🔍 Buscando Estágio: Suporte Técnico | Dev | Análise de Dados
 ⚡ Aprendizado rápido • Proativo • Focado em resultados
 📚 Explorando PHP, C/C++, Git e boas práticas de desenvolvimento
